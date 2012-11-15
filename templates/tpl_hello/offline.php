@@ -1,2 +1,2 @@
 jheadertpl
-jsitetemplateoffline
+jsitetemplate-offline

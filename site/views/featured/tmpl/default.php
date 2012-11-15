@@ -1,2 +1,2 @@
 jheader
-jsitelayoutfeatured
+jsitelayout-featured

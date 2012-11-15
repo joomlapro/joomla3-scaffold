@@ -1,2 +1,2 @@
 jheadertpl
-jsitetemplatecomponent
+jsitetemplate-component

@@ -1,2 +1,2 @@
 jheadertpl
-jsitetemplateerror
+jsitetemplate-error

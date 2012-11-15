@@ -1,2 +1,2 @@
 jheadertpl
-jsitetemplatemodules
+jsitetemplate-modules

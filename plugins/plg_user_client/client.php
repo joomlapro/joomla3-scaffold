@@ -1,2 +1,2 @@
 jheaderplg
-jpluginuser-user
+jpluginuser

@@ -1,0 +1,2 @@
+jheaderplg
+jpluginquickicon

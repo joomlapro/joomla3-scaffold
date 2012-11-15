@@ -1,2 +1,2 @@
 jheadermod
-jsitemodulehelper
+jsitemodule-helper
