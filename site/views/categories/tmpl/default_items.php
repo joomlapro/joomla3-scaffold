@@ -1,2 +1,2 @@
 jheader
-jsitelayout-categories_items
+jsitelayoutcategories_items

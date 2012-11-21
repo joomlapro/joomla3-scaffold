@@ -1,2 +1,2 @@
 jheader
-jadminlayoutedit-metadata
+jadminlayoutedit_metadata

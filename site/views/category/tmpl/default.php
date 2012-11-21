@@ -1,2 +1,2 @@
 jheader
-jsitelayout-category
+jsitelayoutcategory

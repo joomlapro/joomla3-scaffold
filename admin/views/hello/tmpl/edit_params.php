@@ -1,2 +1,2 @@
 jheader
-jadminlayoutedit-params
+jadminlayoutedit_params
