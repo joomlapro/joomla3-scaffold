@@ -1,2 +1,2 @@
 jheadermod
-jsitemodule-layout
+jsitemodulelayout
