@@ -1,2 +1,0 @@
-jheadermod
-jsitemodule-categories
