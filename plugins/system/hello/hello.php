@@ -1,2 +1,2 @@
 jheaderplg
-jplugin
+jpluginsystem
