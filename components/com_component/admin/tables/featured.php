@@ -1,2 +1,2 @@
 jheader
-jadmintablefeatured
+jadmintable-featured
