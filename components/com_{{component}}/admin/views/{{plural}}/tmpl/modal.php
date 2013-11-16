@@ -1,2 +1,2 @@
 jheader
-jadminlayoutmodal
+jadminlayoutlist-modal

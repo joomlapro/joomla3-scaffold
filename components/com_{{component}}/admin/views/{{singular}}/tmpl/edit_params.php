@@ -1,2 +1,0 @@
-jheader
-jadminlayoutedit_params
