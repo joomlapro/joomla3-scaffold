@@ -1,2 +1,0 @@
-jheader
-jsitelayoutcategory_blog

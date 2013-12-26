@@ -1,2 +1,2 @@
 jheader
-jsitelayoutcategory
+jsitelayoutitem
